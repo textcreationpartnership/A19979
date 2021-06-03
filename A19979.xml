@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bassus certaine notes set forth in foure and three parts to be song at the morning communion, and euening praier very necessarie for the Church of Christe to be frequented and vsed: &amp; vnto them added diuers godly praiers &amp; Psalmes in the the like forme to the honor &amp; praise of God.</title>
+         </titleStmt>
+         <extent>Approx. 58KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19979</idno><idno type="EEBO-CITATION">99839530</idno>
+  <idno type="VID">3961</idno>
+  <idno type="EEBO-PROQUEST">2240892793</idno>
+  <idno type="STC">STC 6418</idno>
+  <idno type="STC">ESTC S103785</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839530e"/>
+            <note>(EEBO-TCP ; phase 2, no. A19979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 239:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bassus certaine notes set forth in foure and three parts to be song at the morning communion, and euening praier very necessarie for the Church of Christe to be frequented and vsed: &amp; vnto them added diuers godly praiers &amp; Psalmes in the the like forme to the honor &amp; praise of God.</title>
+                  <author>Caustun, Thomas, d. 1569, attributed name.</author>
+               </titleStmt>
+               <extent>[76] p.   </extent>
+               <publicationStmt>
+                  <publisher>Ouer Aldersgate beneath S. Martins by Iohn Day,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1560.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Only quires A-M of the bassus partbook were printed at this time and are included in the present entry; these quires are never found except as completed (sometimes with a 1565 cancel title page) and first issued in STC 6419. For evidence concerning the printing and further details of individual copies see "The British Library Journal", X (1984), pp. 1-31--STC.</note>
+                  <note>Possibly compiled by Thomas Caustun (Causton, Cawston)?, whose name appears on F1 recto (and much more frequently in STC 6419, the completed edition of this)--STC.</note>
+                  <note>At foot of title page: Cum gratia &amp; priuilegio Regiæ Maiestatis.</note>
+                  <note>Signatures: A-T² .</note>
+                  <note>Formerly also STC 16460.</note>
+                  <note>Title page reads: 1560.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Book of common prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3961:1"/>
+            <pb facs="tcp:3961:1"/>
+            <p>❧ <hi>BASSVS</hi> CERTAINE notes set forth in foure and three parts to be song at the morning Com<g ref="char:EOLhyphen"/>munion, and euening praier, very necessa<g ref="char:EOLhyphen"/>rie for the Church of Christe to be fre<g ref="char:EOLhyphen"/>quented and vsed: &amp; vnto them added diuers godly praiers &amp; Psalmes in the like forme to the ho<g ref="char:EOLhyphen"/>nor &amp; praise of God.</p>
+            <p>¶ <hi>Imprinted at London ouer Alders<g ref="char:EOLhyphen"/>gate beneath S. Martins by Iohn Day.</hi>
+            </p>
+            <p>1560.</p>
+            <p>¶ <hi>Cum gratia &amp; priuilegio Regiae Maiestatis.</hi>
+            </p>
+            <figure>
+               <q>DIEV ET MON DROIT</q>
+               <q>ARISE, FOR IT IS DAY.</q>
+               <figDesc>decorative border incorporating the Royal blazon and printer's device of John Day</figDesc>
+            </figure>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:3961:2"/>
+            <p>
+               <figure>
+                  <q>VIVAT RE.</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <p>E. R</p>
+                  <p>I D</p>
+                  <figDesc>printer's device of John Day</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="canticles">
+            <pb facs="tcp:3961:2"/>
+            <div type="chant">
+               <head>❧ <hi>Venite exultemus.</hi>
+               </head>
+               <head>Bassus. Morning praier.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">C</seg>Ome let vs sing vnto the Lord: let vs herte<g ref="char:EOLhyphen"/>ly reioyce in the strength of our saluation. Let vs come before his presence with thankes geuing, and shew our selfes glad in him with Psalmes. For the Lorde is a great God and a great king aboue all gods. In his hands are all y<seg rend="sup">e</seg> corners of the earth and the strength of the hils is his also. The sea is his &amp; he made it and his handes prepared the drie land. O come let vs worship &amp; fal down and knele before the Lorde our maker. For he is the Lord our God,
+<pb facs="tcp:3961:3"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And we are the people of his pasture and the shepe of his handes. To day if ye will heare his voyce harden not your hertes, as in the pro<g ref="char:EOLhyphen"/>uocation, and in the day of temptation in the wildernes whē your fa<g ref="char:EOLhyphen"/>thers tempted me, proued me and saw my workes. Fortie yeares long was I greued with this generation and said it is a people that do erre in their hertes, for they haue not knowen my waies. Vnto whome I sware in my wrath that they should not enter into my rest. Glory be to the father and to the sonne, and to the holy Gost. As it was in the beginning, is nowe and euer shalbe world without ende Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:3"/>
+               <head>❧ <hi>Te deum laudamus.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>E praise thee, O God, We knowledge thee to be the Lord, all the earth doth worship thee, the father euerlastinge, To thee all Angels cry aloud the heauens and al the powers therin. To thee Cherubin and Seraphin, cōtinually do cry, holy, holy, holy, Lord God of Sabaoth. Heauen and earth are full of the maiestie of thy glory, of thy glory. The glorious companie of the Apostles praise the. The goodly felowship of the Prophetes praise the. The noble ar<g ref="char:EOLhyphen"/>mie
+<pb facs="tcp:3961:4"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> of Martirs praise the. The holy church throughout al the world doth knowledge the: the father of an infinite maiestie, thy honorable true and onely sonne, also the holy ghost the cofmorter, thou art the king of Glory, O Christ, thou art the euerlasting sonne of the father. When thou tokest vpon thee to deliuer man, thou didst not abhorre the Virgins wombe, when thou hadest ouercome the sharpenes of death, thou didest open the kingdome of Heauen to all beleuers. Thou sittest on the right hand of God in the glory of the father, we beleue that thou shalt come to be our iudge: we therfore pray thee helpe thy
+<pb facs="tcp:3961:4"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> seruauntes, whom thou hast redemed with thy precious bloud, make them to be numbred with thy saints in glory euerlasting. O lord, saue thy people: and blesse thine heritage, gouerne them &amp; lift them vp for euer. Day by day we magnifie thee, and we worship thy name euer world without ende. Vouchsafe, O Lorde, to kepe vs this day without sinne: O Lord haue mercy vpon vs, haue mercy vpon vs. O Lord let thy mercy lighten vpon vs, as our trust is in thee. O Lord in thee haue I trusted, let me neuer be confounded, be confounded.</p>
+               <pb facs="tcp:3961:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3961:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:6"/>
+               <head>¶ <hi>Benedictus dominus.</hi>
+               </head>
+               <head>Bassus. Morning praier.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">B</seg>Lessed be the Lord God of Israell: for he hath visited and redemed his people. And hath raised vp a mightie saluation for vs, in the house of his seruaūt Dauid. As he spake by the mouth of his holy Prophetes which hath bene since the world began. That we should be saued from our enne<g ref="char:EOLhyphen"/>mies, and from the handes of all that hate vs. To performe the mercy promised to our fathers, and to remember his holy couenant. To per<g ref="char:EOLhyphen"/>forme the othe which he sware to our father Abrahā, that he would
+<pb facs="tcp:3961:6"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> geue vs. That we beyng deliuered out of the handes of our enemies might serue him without feare. In holines and rightwisenes before him all the daies of our life. And thou child shalt be called the Pro<g ref="char:EOLhyphen"/>phet of the hiest, for thou shalt go before the face of the Lord to pre<g ref="char:EOLhyphen"/>pare his waies. To geue knowledge of saluation vnto his people, for the remissiō of theyr sinnes. Through the tender mercy of our God whereby the day spring from an hie hath visited vs. To geue light to thē that sit in darknes, and in the shadow of death, &amp; to guide our feete into the way of peace. Glory be to the father, and to the sonne,
+<pb facs="tcp:3961:7"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and to the holy ghost. As it was in the beginning is no we, and euer shalbe world without end. Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Letanie.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> God the father of heauen, haue mercy vp<g ref="char:EOLhyphen"/>on vs miserable sinners. O God the sonne redemer of the world, haue mercy &amp;c. O God the holy gost proceding from the father and the sonne &amp;c. O holy blessed and glorious Trinite thre parsons and one God &amp;c. Spare vs good Lorde. Good Lorde
+<pb facs="tcp:3961:7"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> deliuer vs. We besech thee to heare vs good Lord. Sonne of God we beseche thee to heare vs. Graunt vs thy peace. haue mercy vpon vs. O Christ heare vs. Lord haue mercy vpon vs. Christ haue mercy vpon vs. Lord haue mercy vpon vs.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Lordes praier.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">O</seg>Vr father which art in heauen, halowed be thy name. Thy kingdome come. Thy wyll be done in earth as it is in heauē. Geue vs this day our daylie bread.
+<pb facs="tcp:3961:8"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And forgeue vs our trespaces, as we forgeue them that trespace a<g ref="char:EOLhyphen"/>gainst vs. And let vs not be led into temptation: but deliuer vs from euill. Amen.</p>
+            </div>
+            <div type="chant">
+               <head>¶ <hi>The Communion.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord haue mercy vpon vs, and encline oure hertes to kepe this lawe. Lorde haue mercy vpon vs: &amp; writ all these thy lawes in our hertes we beseche thee.</p>
+               <pb facs="tcp:3961:8"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>Nd in earth peace, good wil towards mē: we praise thee, we blesse thee, we worship thee, we glorifie thee, we geue thanks to the, for thy great glory for thy great glory. O Lord God heauenly king, God the father almightie, O Lord the only begotten sonne, Iesu Christ. O Lord God lame of God, sonne of the father: sonne of the father, which takest away the sinnes of the world, haue mercy vpon vs. Thou that takest away the sinnes of the world, receceiue our praiers. Thou that sittest at the right hande of God the father <hi>ij.</hi> haue mercy vpon
+<pb facs="tcp:3961:9"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> vs, haue mercy vpon vs: For thou onely art holy, thou onely art the Lord, thou onely (O Christ) with the holy ghost art most high in the glory of God the father: In the glory of God the father. Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The crede.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>He father almightie maker of heauen and earth, and of all thinges visible and inuisible. And in one Lorde Iesu Christ the onely begotten sonne of God begotten of his father before all worldes, God of God, light of light, very God of very God begottē, not made being of one substance
+<pb facs="tcp:3961:9"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> with the father, by whome all thinges were made: who for vs men, and for our saluation came downe from heauen, &amp; was incarnate by the holy ghost of the virgin Mary, and was made man: &amp; was cruci<g ref="char:EOLhyphen"/>fide also for vs vnder Poncius Pilate. He suffred and was buried, &amp; the third day he rose againe according to the scriptures. And ascended into heauen, in to heauen, and sitteth at the right hand of the father. And he shall come againe with glory to iudge both the quicke and the dead, whose kingdome shall haue no ende, shall haue no ende. And I beleue in the holy ghost, the Lord and geuer of life, who procedeth
+<pb facs="tcp:3961:10"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> from the father and the sonne together is worshipped and glorifide, who spake by the Prophets. And I beleue one catholike &amp; apostolik Church: I acknowledge one Baptisme for the remission of sinnes, and I loke for the resurrection of the dead: And the life of the world to come. Amen.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Let your light so shine before mē, that they may se your good works and glorifie your father which is in heauen.</p>
+               <pb facs="tcp:3961:10"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Holy, holy, holy, Lord God of hostes: Holy, holy, Lorde God of hostes, holy, holy, Lord God of hostes: heauen and earth are full of thy glory. <hi>ij. ij.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Glory be to thee, O Lord most hie. <hi>ij. ij. ij. ij.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">R</seg>Eioyce in the Lord alwaies. And again I say reioyce let your softnes be knowen vnto all men, for the Lorde is euen at hand, for the Lord is euen at hand. Be not carefull but in all thinges, let your peticion, let your petition and praier: and supplication, with geuing of thankes be knowen before God. And
+<pb facs="tcp:3961:11"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the peace of God which passeth all vnderstanding, all vnderstanding kepe your hertes and mindes, <hi>ij.</hi> in Christ Iesu our Lord: Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Euening praier.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y soule doth magnifie the Lord, &amp; my sprite reioyseth in God my sauior. For he hath regarded the lowlines of his
+<pb facs="tcp:3961:11"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> handmaiden. For behold from hence forth all generations shall call me blessed. For he that is mightie, hath magnified me, and holy is his name. And his mercy is on them that feare him thorowout all ge<g ref="char:EOLhyphen"/>nerations. He hath shewed strength with his arme, he hath scattered the proude in their imaginacions of their hertes. He hath put downe the mightie from their seates, and hath exalted the humble and meke. He hath filled the hungery with good thinges and the riche he hath sent emptie away. He remembring his mercy hath holpen his seruaūt Israell as he promised to our forefathers, Abraham and his seede for
+<pb facs="tcp:3961:12"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> euer. Glory be to the father and to the sonne, and to the holy Ghost, As it was in the beginninge, is nowe and euer shalbe, world with<g ref="char:EOLhyphen"/>out ende Amen.</p>
+            </div>
+            <div type="chant">
+               <head>¶ <hi>Nunc dimittis.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord nowe lettest thou thy seruaunt depart in peace, ac<g ref="char:EOLhyphen"/>cordyng to thy word. For mine eies haue sene thy saluation: which thou hast prepared before the face of al people. To be a light to lightē the Gentils, and to be the glory of thy people Israell. Glory be to the
+<pb facs="tcp:3961:12"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> father and to the sonne, and to the holy ghost. As it was in the be<g ref="char:EOLhyphen"/>ginning, &amp; is nowe and euer shalbe world without ende. Amen. Amen.</p>
+               <byline>T. Cawston.</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Another Magnificat.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y soule doth magnifie the Lord, &amp; my sprite hath reioysed in God my sauior. For he hath regarded y<seg rend="sup">e</seg> lowlines of his hand maiden. For behold from henceforth all generations shall call
+<pb facs="tcp:3961:13"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> me blessed. For he that is mightie hath magnified me, and holy is his name. And his mercy is on them that feare him throughout all ge<g ref="char:EOLhyphen"/>nerations. He hath shewed strength with his arme, he hath scattered the proude in their imaginations of their hertes. He hath put downe the mightie from their seate, and hath exalted the humble and meke. He hath filled the hungry with good thinges: and the riche he hath sent emptie away. He remembring his mercy hath holpē his seruaūt Israell, as he promised to our fathers Abraham and his sede for euer. Glory be to the father and to the sonne, and to the holy Ghost. As it
+<pb facs="tcp:3961:13"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> was in the beginning, is nowe, and euer shall be, worlde without ende. Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Another Nunc dimittis.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord nowe let thy seruaunt depart in peace, accordinge to thy word. For mine eies haue sene thy saluation: which thou hast prepared before the face of al people. To be a light to lightē the Gen<g ref="char:EOLhyphen"/>tils, and to be the glory of thy people Israell. Glory be to the father and to the sonne, and to the holy Ghost. As it was in the beginning is nowe and euer shalbe world without ende. Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:14"/>
+               <head>¶ <hi>A <hi>Godly prayer.</hi>
+                  </hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Et all the Congregation that is within this place cry vnto God that holy Lorde, to send vs of his grace. Blessed be the Lorde oure God, and blessed be hys name, now blessed be our sauior, that bought vs from al paine. O Lord, now harken vnto vs, &amp; graūt vs our request, we praye thee y<seg rend="sup">t</seg> thou woldest vouchesafe to bring vs to thy rest: O most gratious sauior, y<seg rend="sup">u</seg> art all only god y<seg rend="sup">u</seg> didst redeme vs w<seg rend="sup">t</seg> thy deth w<seg rend="sup">t</seg> sheding of thy blod. Now let vs through thy precious death, be of thy holy elect, for who that be<g ref="char:EOLhyphen"/>leueth
+<pb facs="tcp:3961:14"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> not of thee, shall be from thee reiect. We sing praises vnto our God with thākes vnto our Lord, because he hath so blessed vs, that we do know his word. Also Lord God, now guide vs so we may do thy will like those that most do loue the Lord in being faithful stil. Our tonges shalbe our instrument, our hertes shall shewe our voice, and al the powers within our brestes in God they shal reioyce. Graūt vs that we may kepe alwaies thy holy statutes ten: defende &amp; saue Elizabeth our Quene: all people say Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:15"/>
+               <head>❧ <hi>Venite exultemus</hi>
+               </head>
+               <head>¶ <hi>A morning praier in foure partes.</hi>
+               </head>
+               <head>❧ <hi>This Bassus is for children.</hi>
+               </head>
+               <div type="part">
+                  <head>Venite exultemus.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">O</seg>
+                     </hi> Com let vs sing vnto the Lord, let vs har<g ref="char:EOLhyphen"/>tely reioyce in the strēgth of our saluation. Let vs come before his presence with thankes geuing, and shew our selfe glad in him with Psalmes. For the Lord is a great God, and a great king aboue all gods. In his hande are all the corners of the earth, &amp; the strength of the hils is his also. The sea is his &amp; he made it, &amp; his hands prepared the drie land. O come let vs worship &amp; fal down
+<pb facs="tcp:3961:15"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and knele before the Lord our maker, for he is the Lord our God, and we are the people of his pasture and the shepe of his handes. To day if ye will heare his voice, harden not your herts, as in the prouocacion and in the day of temptation in the wildernes, when your fathers tēp<g ref="char:EOLhyphen"/>ted me, proued me and sawe my workes. Fortie yeares long was I greued with this generation, &amp; said it is a people that do erre in their hertes, for they haue not knowen my waies, vnto whom I sware in my wrath that they should not enter into my rest. Glory be to the fa<g ref="char:EOLhyphen"/>ther and to the Sonne, and to the holy Ghost. As it was in the
+<pb facs="tcp:3961:16"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> beginning is now and euer shalbe world without ende. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>¶ <hi>Te deum.</hi>
+                  </head>
+                  <head>❧ <hi>Bassus for men.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>E knowledge thee to be the Lord. All the earth doth worship thee the father euerlastyng. To thee all angels cry aloude, the heauens and all the powers therin. To thee Cherubin and Sera<g ref="char:EOLhyphen"/>phin continually do cry. Holy, holy, holy, Lord God of sabaoth. Heauē and earth are full of the maiestie of thy glory. The glorious company of the Apostels praise thee. The goodly felowship of the Prophetes praise thee. The noble armie of Martirs praise thee. The holy church
+<pb facs="tcp:3961:16"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> thorowout all the world doth knowledge thee, the father of an infi<g ref="char:EOLhyphen"/>nite maiestie: Thy honorable true and onely sonne. Also the holy gost the comforter. Thou art the king of glory, O Christ. Thou art the euerlasting sonne of the father. When thou tokest vpon the to deliuer man, thou didst not abhorre the virgins wombe: when thou hadst ouercome the sharpenes of death, thou didst open the kingdome of heauen to all beleuers. Thou sittest on the right hand of God in the glory of the father, we beleue that thou shalt come to be our iudge. We therfore pray thee helpe thy seruauntes whom thou hast redemed
+<pb facs="tcp:3961:17"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> with thy precious blod. Make them to be numbred with thy saints in glory euerlasting. O Lorde saue thy people &amp; blesse thine heritage. Gouerne them and lift them vp for euer. Day by day we magnifie thee. And we worship thy name euer world without ende. Vouchsafe O Lord to kepe vs this day without sinne. O Lord haue mercy vpon vs, haue mercy vpon vs. O Lord let thy mercy lighten vpō vs, as our trust is in thee. O Lorde in thee haue I trusted, let me neuer be con<g ref="char:EOLhyphen"/>founded.</p>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:3961:17"/>
+                  <head>❧ <hi>Benedictus.</hi>
+                  </head>
+                  <head>❧ <hi>Bassus for men.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">F</seg>Or he hath visited and redemed his people, and hath lifted vp an horne of saluation to vs in the house of his seruaunt Dauid. As he spake by the mouth of his holy Prophetes whiche hath bene sins the world began, that we should be sauid from our enemies, and from the handes of all that hate vs. To performe the mercy promised to our fathers, and to remembre his holie couenaunt, to perfourme the othe whiche he sware to oure fathers Abraham, that he woulde
+<pb facs="tcp:3961:18"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> geue vs. That we beyng deliuered out of the handes of our enemies might serue him without feare in holines and righteousnes before him al the daies of our life. And thou child shalt be called the Prophet of the hiest, for thou shalt go before the face of the Lord to prepare his waies to geue knowledge of saluatiō vnto his people, for the remissiō of their sinnes. Through the tender mercy of our God, wherby the day spring from an high hath visited vs, to geue light to them that sat in darknes &amp; in the shadow of death, and to guid our feete into the waye of peace. Glory be to the father and to the sonne and to the holy
+<pb facs="tcp:3961:18"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ghost. As it was in the beginning, is nowe, and euer shall be worlde without ende. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>❧ <hi>Sing the Letanie, as it is before.</hi>
+                  </head>
+                  <head>¶ <hi>The Communion.</hi>
+                  </head>
+                  <head>❧ <hi>Bassus for men.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Ord haue mercy vpon vs: and encline our herts to kepe this lawe. Lorde haue mercy vpon vs: and write all these thy lawes in our herts we besech thee.</p>
+                  <pb facs="tcp:3961:19"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>He father almightie maker of heauen and earth: and of al thinges visible and inuisible. And in one Lorde Iesu Christ the onely begotten sonne of God begotten of his father before al worldes, God of, God light of light, very God, of very God. Begotten, not made, beyng of one sub<g ref="char:EOLhyphen"/>staunce with the father: by whom all thinges were made, who for vs men and for our saluation came downe from heauen: and was in<g ref="char:EOLhyphen"/>carnate by the holy ghost of the virgin Mary and was made man, &amp; was crucified also for vs. Vnder Poncius Pilate, he suffred and was
+<pb facs="tcp:3961:19"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> buried, &amp; the third day he arose again according to the scriptures, &amp; as<g ref="char:EOLhyphen"/>cēded into heauē: &amp; sitteth at y<seg rend="sup">e</seg> right hand of the father, &amp; he shall come againe w<seg rend="sup">t</seg> glory to iudge both y<seg rend="sup">e</seg> quick &amp; the dead, &amp; I beleue in the holy gost, y<seg rend="sup">e</seg> lord &amp; geuer of life. Who procedeth frō y<seg rend="sup">e</seg> father &amp; the sonne, who w<seg rend="sup">t</seg> the father &amp; the sonne together is worshipped &amp; glorified, who spak by the Prophets. And I beleue one catholik &amp; apostolick church, I ac<g ref="char:EOLhyphen"/>knowledge one Baptisme for the remission of sinnes: and I looke for the resurrection of the dead, and the life of the world to come. Amen.</p>
+               </div>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:20"/>
+               <head>❧ <hi>An Offetorie.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> LAie not vp for your selues treasure vpon the earth where the rust and moth doth corrupt, and where theues breake through and steale. But laye vp for your selues treasure in heauen, where neyther rust nor mothe doeth corrupte, and where theues do not breake through nor steale.</p>
+            </div>
+            <div type="section">
+               <head>❧ <hi>The Sanctus.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Holy, holy, holy, Lord God of hostes: heauen and earth are full of thy glory: glory be to thee, O Lord most highe: Glorie be to thee, O Lorde, most highe.</p>
+               <pb facs="tcp:3961:20"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>Nd in earth peace, good will towardes men, we praise thee, we blesse thee, we worship thee, we glorifie thee, we geue thankes to thee for thy great glory. O Lord God heauenly king, God the father almightie Lord the only begottē sonne Iesu Christ, O lord God lābe of god, son of the father, y<seg rend="sup">t</seg> takst away y<seg rend="sup">e</seg> sins of y<seg rend="sup">e</seg> world, haue mercy vpō vs: y<seg rend="sup">u</seg> that takst awai y<seg rend="sup">e</seg> sins of y<seg rend="sup">e</seg> world, receaue our praier: y<seg rend="sup">u</seg> y<seg rend="sup">t</seg> sittest at y<seg rend="sup">e</seg> right hād of god y<seg rend="sup">e</seg> father, haue mercy vpō vs. For y<seg rend="sup">u</seg> only art holy, y<seg rend="sup">u</seg> only art y<seg rend="sup">e</seg> lord, y<seg rend="sup">u</seg> on<g ref="char:EOLhyphen"/>ly o Christ, w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> holy gost art most high in y<seg rend="sup">e</seg> glory of god y<seg rend="sup">e</seg> father, Amē.</p>
+               <pb facs="tcp:3961:21"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">P</seg>Raise we the Lorde at all times at all times. Praise we the Lorde at all times, at all times. Let our mouthes say well by the Lorde: at all times, at all times. That our soules may be reioysed by the Lorde at all times, at all times. Meke men shall here and reioyce in the Lorde, at all tymes, at all tymes at all tymes.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:21"/>
+               <head>❧ <hi>For the Euenyng praier.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>And my sprit hath reioysed in god my sauior. For he hath regarded the low<g ref="char:EOLhyphen"/>lines of his hand maiden. For behold from hence forth all generations shall call me blessed. For he that is mightie hath magnified me, and holy is his name. And his mercy is on them that feare him throughout all generations. He hath shewed strength w<seg rend="sup">t</seg> his arme. He hath scatered the proude in the imaginacion of their hertes. He hath put downe the mightie from their seate, and
+<pb facs="tcp:3961:22"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> hath exalted the humble and meke. He hath filled the hungry with good thinges, and the riche he hath sent emptie away. He remēbring his mercy hath holpē his seruant Israel. As he promised to our fathers Abraham and his seed for euer. Glorye be to the father and to the sonne, and to the holy ghost. As it was in the beginning, and is now, and euer shalbe world without ende Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Nunc dimittis.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Orde now lettest thou thy seruaunt depart in peace, according to thy promise. For mine eies hath sene
+<pb facs="tcp:3961:22"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the sauior: whom thou hast prepared before all people. A light for to lightening of the heathen, and for the praise of the people of Israell. Glory be to the father, and to the sonne, and to the holy ghost. As it was in the beginning, as it is nowe, and euer shalbe. Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Another Magnificat.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>I soule doth magnifie the Lorde, and my sprit hath re<g ref="char:EOLhyphen"/>ioyced in God my sauior. For he hath regarded the lowlines of his hand maiden, for behold from hence forth all generations shall call
+<pb facs="tcp:3961:23"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> me blessed. For he that is mightie hath magnified me, and holy is his name. And his mercy is one them that feare him through out all ge<g ref="char:EOLhyphen"/>nerations. He hath shewed strength with his arme: he hath scattered the proud, in the imagination of their herts. He hath put down the mightie frō their seat, &amp; hath exalted the humble &amp; meke. He hath filled the hungry he hath filled y<seg rend="sup">e</seg> hūgry w<seg rend="sup">t</seg> good things, &amp; the rich he hath sent emptie away. He remēbring his mercy hath holpē his seruāt Israel, hath holpē his seruāt Israel, as he promised, as he promised to our fathers Abrahā to our fathers Abrahā &amp; his seed for euer, &amp; his seed
+<pb facs="tcp:3961:23"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> for euer. Glory be to the father &amp; to y<seg rend="sup">e</seg> son, &amp; to the holy gost. As it was in the beginning, &amp; is now, &amp; euer shalbe world w<seg rend="sup">t</seg>out ende Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Nunc dimittis.</hi>
+               </head>
+               <head>❧ <hi>Bassus for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord now lettest y<seg rend="sup">u</seg> thy seruāt depart in peace, according to thy word according to thy word. For mine eies haue sene thy saluatiō thy saluatiō: which y<seg rend="sup">u</seg> hast prepared before y<seg rend="sup">e</seg> face of all thy people. To be a light to lightē the Gētils, of thy people Israell, of thy people Israell. Glory be to y<seg rend="sup">e</seg> father, &amp; to y<seg rend="sup">e</seg> son, &amp; to y<seg rend="sup">e</seg> holy gost. As it was in y<seg rend="sup">e</seg> beginning, is now and euer shalbe world w<seg rend="sup">t</seg>out end Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:24"/>
+               <head>¶ <hi>Venite exultemus.</hi>
+               </head>
+               <head>This Bassus part is for children.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> Cum let vs sing vnto the Lorde, let vs hartely reioyce in the strength of our saluatiō Let vs come before his presence with thankesgeuing, and shewe our selues glad in him with Psalmes. For the Lord is a great God, and a great king aboue all gods. In his handes are all the corners of the earth, are all the corners of the earth. And the strength of the hils is his also: the sea is his and he made it, and his handes prepared the drie land. O come let vs worship &amp; fal down <hi>ij.</hi>
+               </p>
+               <pb facs="tcp:3961:24"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And knele before the Lord our maker. <hi>ij.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> For he is the Lorde our God, <hi>ij.</hi> and we are the people of his pasture, of his pasture, and the shepe of his handes. To day if ye wil here his voice harden not your herts as in y<seg rend="sup">e</seg> prouocaciō and in the day of temptacion in the wildernes. When your fathers tempted me, proued me and saw my workes. Fortie yeares long was I greued with this generation, &amp; said it is a people that doth erre in their herts, for they haue not knowen my waies. Vnto whome I sware in my wrath I sware in my wrath that they should not enter
+<pb facs="tcp:3961:25"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> into my rest. Glory be to the father, and to the sonne, &amp; to the holy ghost. As it was in the beginning is now, &amp; euer shalbe, is now &amp; euer shalbe world w<seg rend="sup">t</seg>out end. <hi>ij.</hi> Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Te deum laudamus.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>E knowledge thee to be the Lorde. All the earth doeth worship thee, which art the father euerlasting. To thee all angels cry a loude the heauens &amp; all the powers there<g ref="char:EOLunhyphen"/>in. To the Cherubin and Seraphin continually do cry. Holy, holy, lord God of sabaoth ho<g ref="char:EOLunhyphen"/>ly, ho<g ref="char:EOLunhyphen"/>ly, Lorde God of sabaoth. Heauen and earth are full of the
+<pb facs="tcp:3961:25"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> maiestie of thy glory. The glorious company of the Apostles praise thee. The godly felowship of the Prophets praise thee. The noble armie of martirs praise thee. The holy Churche throughout all the world doth knowledge thee. The father of an infinite maiestie. Thy honorable trew and only sonne. Also the holy ghost the cōforter, thou art the king of glory, O Christ, thou art the euerlasting son of the fa<g ref="char:EOLhyphen"/>ther of the father of the father. Whē y<seg rend="sup">u</seg> tokest vpon thee to deliuer mā y<seg rend="sup">u</seg> dedist not abhorre the virgins wōbe: whā y<seg rend="sup">u</seg> hadst ouercome y<seg rend="sup">e</seg> sharp<g ref="char:EOLunhyphen"/>nes of death, thou didest open the kingdome of heauen to all beleuers.
+<pb facs="tcp:3961:26"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thou sittest at y<seg rend="sup">e</seg> right hand of God in y<seg rend="sup">e</seg> glory of y<seg rend="sup">e</seg> father, <hi>ij.</hi>
+               </p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> We beleue that thou shalt come to be our iudge. We therfore pray the helpe thy seruantes whom thou hast redemed w<seg rend="sup">t</seg> thy precious blod make them to be numbred with thy saintes in glory e<g ref="char:EOLunhyphen"/>uer la<g ref="char:EOLunhyphen"/>sting. O Lord saue thy people thy people, &amp; blesse thine heritage <hi>ij.</hi> gouerne thē &amp; lift them vp for euer. <hi>ij.</hi> Day by day we magnifie the and we worship thy name euer worlde without ende. Vouchsaf, O Lord to kepe vs this day without sinne, O Lord haue haue mercy vpon vs, haue mercy vpon vs, O Lorde let thy mercy
+<pb facs="tcp:3961:26"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> lighten vpon vs, as our trust is in thee. O Lorde in thee haue I tru<g ref="char:EOLhyphen"/>sted, let me neuer be confounded. <hi>ij</hi>
+               </p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>Benedictus.</hi>
+               </head>
+               <head>❧ <hi>This Base part is for children.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">B</seg>Lessed be the Lord God of Israel, for he hath visited and redemed hys people: And hath raysed vp a mighty saluation for vs, in the house of hys seruant Dauyd. As he spake by the mouth of his holy Prophetes, which hath bene since the world began: That we should be saued from our enemies, and from the handes of all that hate vs. To performe
+<pb facs="tcp:3961:27"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the mercy promysed to our fathers, to our fathers, and to remem<g ref="char:EOLhyphen"/>ber his holy couenaunt. <hi>ij</hi> To performe the othe whych he sware to our father Abrahā y<seg rend="sup">t</seg> he wold geue vs. ij. That we be<g ref="char:EOLhyphen"/>yng deliuered deliuered oute of the handes of our enemies, out of the handes of our enemies, might serue hym wythout feare: in holynes and righteousnes before hym: in holynes and righteousnes before hym <hi>ij</hi> all the dayes of our lyfe. And thou childe shalt be called the Prophet of the highest, for thou shalt goe before the face of the Lord, of the Lord, to prepare hys wayes. To geue knowledge of sal<g ref="char:EOLhyphen"/>uation
+<pb facs="tcp:3961:27"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> vnto his people, for the remission of their sinnes: through the tender mercy of our God, wherby the day spring frō an high <hi>ij</hi> hath visited vs: To geue light to them that syt in darknes, and in the shadow of death, and to guide our fete into the way of peace, in to the way of peace. Glory be to the father, and to the sonne, and to the holy ghost: As it was in the beginning is now, and euer shal be, world with out end, Amen.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Communion.</hi>
+               </head>
+               <head>❧ <hi>Bassus for chyldren.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord haue mercy vpon vs, and encline our hartes to kepe
+<pb facs="tcp:3961:28"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> this law. Lord haue mercy vpon vs, and wryte all these thy lawes in our hartes we besech thee.</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Communion.</hi>
+               </head>
+               <head>❧ <hi>This Base is for children.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>He father almighty, maker of heauen and earth, and of all thyng visible and inuisible: and in one Lord Iesu Christ, the onely begotten son of god, begotten of hys father before al worlds: God of god, lyght of lyght, very God of very God, begotten not made, beyng of one substaunce wyth the father, by whom all thyngs were made: who for vs men and for our
+<pb facs="tcp:3961:28"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> saluation, came down from heauen, and was incarnate by the holy ghost of the virgine Mary, and was made man. And was crucified also for vs vnder Pontius Pilate: He suffred and was buried, and the third day he rose agayne accordyng to the scriptures. And ascended into heauen, and sitteth at the ryght hand of God the father: and he shall come agayne with glory to iudge both the quick and the dead, whose kyngdom shall haue no end: And I beleue in the holy ghost, the Lord and geuer of lyfe, who procedeth from the father &amp; the son, who with the father and the son, together, is worshipped and glorified who
+<pb facs="tcp:3961:29"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> spake by the Prophets. And I beleue one catholike I a know<g ref="char:EOLhyphen"/>ledge one baptisme for the remission of syns, and I loke for the resur<g ref="char:EOLhyphen"/>rection of the dead, and the lyfe of the world to come. Amen</p>
+               <byline>Thomas Caustun</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Sanctus.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">H</seg>Oly, holy, holy, Lord God of hostes, heauen and earth are ful of thy glory, glory be to thee O Lord most hygh, glory be to thee O Lord most hygh.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>Nd in earth peace, good wyll towardes men, we prayse thee, we blesse thee, we worshyp
+<pb facs="tcp:3961:29"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> thee, we glorify thee: we geue thanks to thee for thy great glory. O Lord God, heauenly kyng God the father almighty: O lord the only begotten son Iesu Christ, O Lord God, lamb of God, son of y<seg rend="sup">e</seg> father, that takest away the syns of the world, haue mercy vpō vs, thou that takest away y<seg rend="sup">e</seg> sins of y<seg rend="sup">e</seg> world, haue mercy vpō vs: thou y<seg rend="sup">e</seg> takest away the sins of y<seg rend="sup">e</seg> world receiue our prayer: Thou y<seg rend="sup">t</seg> fitst at y<seg rend="sup">e</seg> right hand of God the father, haue mercy vpon vs, haue mercy vpō vs for thou on<g ref="char:EOLhyphen"/>ly art holy, art holy. Thou only art y<seg rend="sup">e</seg> Lord thou only O Christ w<seg rend="sup">t</seg> the holy ghost art most high, in the glory of God the father. Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:30"/>
+               <head>¶ <hi>For the Euening prayer.</hi>
+               </head>
+               <head>❧ <hi>This Base part is for children.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y soule doth magnify the Lord, and my spirite reioysed in God my sauiour. For he hath regarded the lowlynes of hys handmayden, for behold from henceforth, al generations shal call me blessed For he that is mighty hath magnified me, and holy is his name. And hys mercy is on them that feare hym, throughout all generations. He hath shewed strength with his arme, he hathe scattered the proud in the imaginations of their hartes: He hathe put
+<pb facs="tcp:3961:30"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> downe <hi>ij</hi> the mighty from their seat: and hath exalted the humble and meeke. He hath fylled the hungry with good things, and the riche he hath sent empty away: He remembring his mercy hath holpen his seruaunt Israel. As he promysed to our fathers Abraham, and to hys sede for euer, and to hys sede for euer. ij.</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Glory be to the Father, and to the son, and to the holy ghost: as it was in the begynnyng is now, and euer shal be, worlde without ende, world wythout ende. Amen.</p>
+               <byline>Thomas Caustun.</byline>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:31"/>
+               <head>❧ <hi>Nuncdimittis.</hi>
+               </head>
+               <head>❧ <hi>Bassus for chyldren.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">L</seg>Ord now let thy seruant depart in peace according to thy word: for myne eyes haue sene <hi>ij</hi> thy saluation. Which thou hast prepared before the face of al people. To be a light to ligh<g ref="char:EOLhyphen"/>ten the gentils, and to be the glory, and to be the glory of thy people Israel. Glory be to the father and to the sonne, and to the holy ghost: As it was in the beginnyng, as it was in the beginning is now and euer shal be, world without end. Amen.</p>
+               <byline>Thomas Caustun.</byline>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:31"/>
+               <head>¶ <hi>A Prayer.</hi>
+               </head>
+               <byline>Iohnson.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">R</seg>Elieue vs O lord y<seg rend="sup">t</seg> are weak &amp; feble: relieue vs O lord y<seg rend="sup">t</seg> are weak &amp; feble, &amp; shew thy great mercy, &amp; shew thy great mercy vnto thy poore people, turne y<seg rend="sup">u</seg> our harts O Lorde <hi>ij</hi> &amp; we shal turned be, regard our sighes &amp; sobs, which frō oure harts do flow, forget our former crimes <hi>ij.</hi> y<seg rend="sup">t</seg> we may cleue to thee <hi>ij</hi> y<seg rend="sup">t</seg> we may cleaue to thee, &amp; work in thy vineyard where ver<g ref="char:EOLhyphen"/>tues al do grow, <hi>ij</hi> do this for vs O Lord, do this for vs O Lord that are weake and feble and shew thy great mercy vnto thy poore people ij great is thy pity Lord though daily we offend: <hi>ij</hi> thou staiest thy wrathful
+<pb facs="tcp:3961:32"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> hand, and amids thyne yre, on mercy styl thou thinkest <hi>ij</hi> O Lord we wyl amend, forgeue and spare vs now, and as we do deserue. Relieue thou vs O Lord that are weake and feble <hi>ij ij</hi> And shew to vs thy great mer<g ref="char:EOLhyphen"/>cy: and shew thy great mercy, and shew to vs thy great mercy vnto thy poore people. Releue thou vs O Lord, that are weake and feble <hi>ij</hi> and shew thy mercy to thy people. Relieue thou vs O Lord that are weake &amp; feble, and shew thy great mercy vnto thy poore people, shew mercy to thy people. Amen.</p>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:32"/>
+               <head>❧ <hi>A Prayer.</hi>
+               </head>
+               <head>❧ <hi>This Base is for children</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">H</seg>Eare the voyce and prayer of thy seruaunts, of thy seruaunts, that they make before thee this day, that thyne eyes may be open toward this house nyght and day, euer towardes this place, <hi>ij</hi> of which y<seg rend="sup">u</seg> hast said my name shal be there, my name shal be there, my name shal be there, &amp; when thou hearest, haue mercy on them, and whē thou hearest haue mercy on them <hi>ij</hi>
+               </p>
+               <byline>M. Talys.</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>A Prayer.</hi>
+               </head>
+               <head>This Base part is for children.</head>
+               <pb facs="tcp:3961:33"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> Eternal god almighty, iust and holy, whose name is the Lord God of hostes, to thee O Lord we cal &amp; cry for mercy, for mercy, to thee O Lord we cal &amp; cry for mercy, for mercy, for mercy: against thee we haue offēded, we &amp; our fathers haue synned, we haue done vniustly, we haue cōmitted iniquity, now graūt to vs O Lord thy great mercy, now graunt to vs O Lord thy great mercy, for great is our misery, great is our misery, great is our misery. Saue thy people O Lord and blesse thine own inheritaunce, despyse not the workes of thyne owne hands, because we be sinful, thou shalt
+<pb facs="tcp:3961:33"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> be called merciful, because we be sinful, thou shalt be called merciful because we be synful, thou shalt be called merciful, forgeue vs now for the glory of thy holy name, forgeue vs now for the glory of thy holy name, that we may know thou art more mercyful then we de<g ref="char:EOLhyphen"/>serue. We shall geue thankes vnto thee O Lorde, and reioyce in thy laud and prayse for euermore: We shal geue thankes to thee O Lord, and reioyse in thy laud and prayse, in thy laud and prayse, for euermore, for euermore. Amen</p>
+               <byline>M. Iohnson.</byline>
+            </div>
+            <div type="chant">
+               <head>A Prayer.</head>
+               <head>❧ <hi>Bassus for chyldren.</hi>
+               </head>
+               <pb facs="tcp:3961:34"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> Lord in thee is al my trust, geue eare vnto my woful cryes: refuse me not that am vniust, but bowing downe thy heauenly eyes. Behold how I do stil lament, my sinnes wherin I thee offēd: O Lord for them shal I be shent, sith thee to please I do intend. No, no, not so, thy wyl is bent, to deale with sin<g ref="char:EOLhyphen"/>ners in thyne yre: but when in hart they shal repent, thou grauntst with spede their iust desyre. To thee therfore stil shal I cry: To wash away my sinful cryme. Thy bloud O Lord is not yet dry, but that it may helpe me in tyme. Hast now O Lord, hast now I say, to poure on
+<pb facs="tcp:3961:34"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> me the gifts of grace, that when this lyfe must flit away, in heauen wyth thee I may haue place, where thou doost raigne eternally, wyth God which once did down thee send: where angels sing continually to thee be prayse world without end. Amen.</p>
+               <byline>M. Talys</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Anthem</hi>
+               </head>
+               <head>❧ <hi>This Base part is for chyldren.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">R</seg>Emember not O Lord God our old iniquity, but let thy mercy spedely preuent vs, for we be very miserable, <hi>ij</hi> helpe vs god our sauiour, <hi>ij</hi> and for the glory of thy name delyuer
+<pb facs="tcp:3961:35"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> vs. Be mercyfull and forgeue our synnes for thy names sake: ij be merciful and forgeue our synnes for thy names sake, let not the wicked people say, <hi>ij</hi> where is their god <hi>ij</hi> we be thy people and the shepe of thy pasture, we shal geue thanks vnto thee for euer. <hi>ij ij</hi> from age to age we shal set forth thy laud &amp; prayse. To thee be honor &amp; glory, <hi>ij</hi> world without end. <hi>ij</hi> To thee be honor &amp; glory, world without end, world without end. Amen.</p>
+               <byline>M. Talys</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>A Prayer.</hi>
+               </head>
+               <head>❧ <hi>This Base is for men.</hi>
+               </head>
+               <pb facs="tcp:3961:35"/>
+               <byline>Shepard.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg>
+                  </hi> Geue you a new commaundemente, that ye loue one another euen as I haue loued you. <hi>ij</hi> By this all men shall knowe that ye are my Disciples, if ye loue one another, one another, <hi>ij</hi> euen as I haue loued you. <hi>ij ij ij</hi> By</p>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">Y</seg>F ye loue me kepe my cōmaundements: And I wyl pray y<seg rend="sup">e</seg> father, &amp; he shal geue you another cōforter, y<seg rend="sup">t</seg> he may byde with you for euer, may byde with you for euer, euen the spirite of truth, the sprite of truth. <hi>ij</hi>
+               </p>
+               <byline>M. Talys.</byline>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:36"/>
+               <head>¶ <hi>The Anthem.</hi>
+               </head>
+               <head>This Base part is for men.</head>
+               <byline>Okeland</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">P</seg>Rayse we the father, the son and the ho<g ref="char:EOLhyphen"/>ly ghost: <hi>ij</hi> we mag<g ref="char:EOLunhyphen"/>nify hym, we glorify hym, and super<g ref="char:EOLhyphen"/>exalt hym, world without end, <hi>ij</hi> for most praise worthy art thou O Lord <hi>ij</hi> most glorious most wor<g ref="char:EOLhyphen"/>thy, most worthy, to be superexalted, to be super exalted for euer, &amp; euer</p>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Anthem</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">P</seg>Rayse the Lord O our soules, and all that is with in vs, prayse his holy name, prayse the
+<pb facs="tcp:3961:36"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Lord O our soules, &amp; forget not all his benefits. The Lord is ful of com<g ref="char:EOLhyphen"/>passion &amp; mercy, long suffering &amp; ful of great goodnes</p>
+               <byline>Okeland.</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>The Anthem</hi>
+               </head>
+               <head>❧ <hi>This Base part is for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">S</seg>Vbmit your selues one to another, in the feare of God speaking vnto your selues in psalmes and hymnes, and spiritual songs, and spiritual songs, singing &amp; making melody to the Lord, and makyng melody to the Lord with your harts, geuyng thanks always for al thinges vnto God the father almighty, almighty. In the name
+<pb facs="tcp:3961:37"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> of our Lord Iesus Christ. <hi>ij</hi>
+               </p>
+               <byline>Shepard.</byline>
+            </div>
+            <div type="chant">
+               <head>A Prayer.</head>
+               <head>Bassus for men.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">S</seg>Hew vs O Lord y<seg rend="sup">e</seg> light of thy coūtinance, that we beyng deliuered deliuered deliuered, from the darknes of our harts, may come to the very light which is Christ. And y<seg rend="sup">u</seg> Lord preserue vs, &amp; thou Lord preserue vs while we be wakyng. <hi>ij</hi> and kepe vs while we be slepyng, that we may wake with Christ wake with Christ, and take rest in peace.</p>
+               <byline>Thomas Caustun</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>A Prayer.</hi>
+               </head>
+               <head>This Base part is for men.</head>
+               <pb facs="tcp:3961:37"/>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">R</seg>Eioyce in the Lord alwaies, &amp; again I say reioyce, let your softnes, be known to al mē, for the Lord is euen at hand. <hi>ij</hi> Be not careful but in al things, let your petitions, <hi>ij</hi> and praier and supplication, w<seg rend="sup">t</seg> geuing of thanks, be known before god. And y<seg rend="sup">e</seg> peace of god which passeth al vnderstanding, al vnderstanding, kepe your harts and mynds <hi>ij</hi> In Christ Iesu our Lord. Amen.</p>
+               <byline>T. Caustun</byline>
+            </div>
+            <div type="chant">
+               <head>❧ <hi>A Prayer.</hi>
+               </head>
+               <head>❧ <hi>This Base is for men.</hi>
+               </head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg>
+                  </hi> Geue you a new commaundement, that ye loue one another, that ye loue one another,
+<pb facs="tcp:3961:38"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> euen as I haue loued you, euen as I haue loued you. By this al men shal know, that ye are my disciples, yf ye loue one another, if ye loue one an other, euen as I haue loued you, euē as I haue loued you, euē as I haue loued you. By this al mē shal know that ye are my disci<g ref="char:EOLhyphen"/>ples, if ye loue one another, if ye loue one another, euē as I haue loued you, euen as I haue loued you, euen as I haue loued you, euen as I haue loued you.</p>
+               <byline>Iohnson</byline>
+            </div>
+            <trailer>❧ <hi>Here endeth the Base in foure partes.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Iohn Day, dwellyng ouer Aldersgate beneath Saint Martins. 1565.</p>
+            <p>¶ These bookes are to be sold at his Shop, vnderneath the Gate.</p>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:3961:38"/>
+            <div type="chant">
+               <head>In nomine of master Tauerners</head>
+               <head>This Basse is for children</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">I</seg>N trouble &amp; aduersity the Lord wil heare thee still, will heare thee stil the maiestye of Iacobs god, of Iacobs god, wil thee defend from il, from il, and send thee from his ho<g ref="char:EOLunhyphen"/>ly place, his helpe at euery nede, his help at euery nede, and so in Sion, and so in Sion, stablish thee and make thee stronge in dede and make thee strong in deede.</p>
+            </div>
+            <div type="chant">
+               <head>A prayer</head>
+               <head>This Basse is for children</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Ost blessed Lord Iesu graunt me thy grace alway vnto
+<pb facs="tcp:3961:39"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the end. And that I may euer desire &amp; wil, desire and wil, that is most pleasaunt and acceptable vnto thee, thy wil be my wil <hi>ii</hi> and my wil alway to follow thy wil, be there alway in me one wil and one desire with thee, so that I may haue no power to wil but euen as thou wilt. Graunt me aboue al things <hi>ij</hi> that can bee desired that can bee desired, <hi>ij</hi> for thou Lord art y<seg rend="sup">e</seg> very peace, for y<seg rend="sup">u</seg> Lord art the very peace of the hart and the perfect rest both of body and soule for thou Lord art the very peace for thou Lord art the very peace of the hart, and the perfect rest both of body and soule for euermore.</p>
+               <byline>T. C.</byline>
+            </div>
+            <div type="chant">
+               <pb facs="tcp:3961:39"/>
+               <head>A prayer</head>
+               <head>This Base is for children</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Vrn thou vs O good Lord <hi>ij</hi> and so shal we be turned, be turned be fauourable O Lord be fauorable to thy people which turn to thee in weping fasting &amp; praying For thou art a merciful god <hi>ij</hi> ful of compassion long suffering <hi>ij</hi> &amp; of great pity. Spare thy people good lord <hi>ij</hi> And let not thine heritage be broght to confusion, heare vs good lord For thy mercy is great. <hi>ij</hi> And after the multitude of thy mercies looke vpon vs.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:3961:40"/>
+            <figure>
+               <q>LIEFE IS DEATHE AND DEATH IS LIEFE</q>
+               <p>AETATIS SVAE XXXX</p>
+               <p>1562</p>
+               <p>I D</p>
+               <figDesc>printer's device of John Day</figDesc>
+            </figure>
+            <p>¶ <hi>Imprinted at London, by Iohn Day, dvvellyng ouer Aldersgate, beneath Saynt Martynes.</hi>
+            </p>
+            <p>
+               <hi>Cum gratia &amp; priuilegio Regiae Maiestatis,</hi>
+            </p>
+            <p>These Bokes are to be solde, at hys shop vnder the gate. 1565.</p>
+            <pb facs="tcp:3961:40"/>
+         </div>
+      </back>
+   </text>
+</TEI>
